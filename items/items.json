@@ -1,0 +1,5 @@
+[
+  { "name": "Top", "price": "50", "size": "small(s)", "id": 1 },
+  { "name": "Tote bag", "price": "65", "size": "large(l)", "id": 2 },
+  { "name": "socks", "price": "5", "size": "medium(m)", "id": 3 }
+]
